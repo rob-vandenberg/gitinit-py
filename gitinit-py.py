@@ -20,7 +20,7 @@ from datetime import date
 from pathlib import Path
 
 # --- Version ------------------------------------------------------------
-__version__ = 'gitinit-py 0.0.1'
+__version__ = 'gitinit-py 0.0.2'
 
 def version():
     return __version__
